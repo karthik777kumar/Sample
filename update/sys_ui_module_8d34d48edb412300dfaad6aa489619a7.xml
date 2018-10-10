@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Sample app">8934d48edb412300dfaad6aa489619a5</application>
+        <filter/>
+        <name>Requests</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_280846_sample.request_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-10 18:15:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8d34d48edb412300dfaad6aa489619a7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Requests</sys_name>
+        <sys_package display_value="Sample" source="x_280846_sample">eb246227db302300dfaad6aa48961974</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sample">eb246227db302300dfaad6aa48961974</sys_scope>
+        <sys_update_name>sys_ui_module_8d34d48edb412300dfaad6aa489619a7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-10 18:15:04</sys_updated_on>
+        <table>x_280846_sample_request</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
